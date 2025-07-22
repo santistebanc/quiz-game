@@ -1,0 +1,3 @@
+# Overview
+
+This document outlines the proposed frontend architecture for the "QuizGame" application. It defines the structural design, key components, data flow, technology stack, and deployment strategy for the three primary user interfaces: the Main Game Board (TV/Large Display), the Player Mobile Interface, and the Admin Dashboard. The architecture aims to ensure real-time responsiveness, scalability for concurrent players, maintainability, and a robust foundation for future enhancements, adhering to the requirements set forth in the PRD and UI/UX Specification. 
